@@ -15,7 +15,7 @@ use function sprintf;
 // phpcs:disable SlevomatCodingStandard.TypeHints.ParameterTypeHint.MissingNativeTypeHint
 // phpcs:disable Squiz.Commenting.FunctionComment.MissingParamName
 
-final readonly class CodeQualityReport implements Report
+final class CodeQualityReport implements Report
 {
     /**
      * @param array{
