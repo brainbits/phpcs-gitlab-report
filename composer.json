@@ -34,7 +34,7 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^10.5.11",
-    "brainbits/phpcs-standard": "^7.0.1",
+    "brainbits/phpcs-standard": "^8.0.0",
     "phpstan/phpstan": "^1.10.59",
     "phpstan/phpstan-phpunit": "^1.3.16"
   },
